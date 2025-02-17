@@ -8,4 +8,4 @@ But there is a very frequent use case where a dicom client knows how to display 
 
 It was programmed in pure C but built with macos xcode 12.4 based on our enclosed cdas and with many tricks to work as fast as possible. It's a good stub for a more general portable, slower, solution.
 
-We added to the project two scripts bash as examples of workflows which use DICMxml2pdf
+We added to the project bash scripts  as examples of workflows using DICMxml2pdf

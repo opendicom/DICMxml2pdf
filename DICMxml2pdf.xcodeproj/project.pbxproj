@@ -33,6 +33,7 @@
 		4AA5C8CA2D5CC23A00D9EAB8 /* pdf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pdf.h; sourceTree = "<group>"; };
 		4AA5C8D92D5F782D00D9EAB8 /* 2812839.2437065.without.pdf.dcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2812839.2437065.without.pdf.dcm; sourceTree = "<group>"; };
 		4AA5C8DA2D5F782D00D9EAB8 /* 2811914.2433569.with.pdf.dcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2811914.2433569.with.pdf.dcm; sourceTree = "<group>"; };
+		4AA5C8DD2D5FF37F00D9EAB8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4AC4B9572D57715E00429A92 /* base64.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = base64.h; sourceTree = "<group>"; };
 		4AC4B9582D57715E00429A92 /* base64.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = base64.c; sourceTree = "<group>"; };
 		846F180F2D56270A002A1CEA /* bash */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bash; sourceTree = "<group>"; };
@@ -52,6 +53,7 @@
 		4AA1196A2D5401A000582BEB = {
 			isa = PBXGroup;
 			children = (
+				4AA5C8DD2D5FF37F00D9EAB8 /* README.md */,
 				4AA5C8D82D5F782D00D9EAB8 /* samples */,
 				846F180F2D56270A002A1CEA /* bash */,
 				4AA119752D5401A000582BEB /* DICMxml2pdf */,
